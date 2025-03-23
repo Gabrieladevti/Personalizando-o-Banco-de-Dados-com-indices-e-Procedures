@@ -1,4 +1,4 @@
-## Projeto Personalizando o Banco de Dados com Índices e Procedures.
+## Personalizando o Banco de Dados com Índices e Procedures.
 
 ## DESCRIÇÃO
 Neste desafio você irá personalizar o seu banco de dados criando índices e procedures para o cenário de Company e E-commerce.
