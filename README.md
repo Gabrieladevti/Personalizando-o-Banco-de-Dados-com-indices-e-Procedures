@@ -23,7 +23,7 @@ ALTER TABLE customer ADD UNIQUE index_email(email);
 CREATE INDEX index_ativo_hash ON exemplo(ativo) USING HASH; 
 
  
-Perguntas:  
+# Perguntas:  
 
 Qual o departamento com maior número de pessoas? 
 
@@ -32,7 +32,7 @@ Quais são os departamentos por cidade?
 Relação de empregrados por departamento 
 
 
-Entregável: 
+# Entregável: 
 
 Crie as queries para responder essas perguntas 
 
@@ -54,9 +54,6 @@ Além das variáveis de recebimento das informações, a procedure deverá possu
 Sendo assim, altere a procedure abaixo para receber as informações supracitadas. 
 
  
-Entregável: 
+# Entregável: 
 
 Script SQL com a procedure criada e chamada para manipular os dados de universidade e e-commerce. Podem ser criados dois arquivos distintos, assim como a utilização do mesmo script para criação das procedures. Fique atento para selecionar o banco de dados antes da criação da procedure.  
-
-## Roberto Trugilho Moreira<br> Em desenvolvimento...
-
