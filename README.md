@@ -44,7 +44,7 @@ Tipo de indice utilizado e motivo da escolha (via comentário no script ou readm
 
 ## Parte 2 - Utilização de procedures para manipulação de dados em Banco de Dados 
 
-Objetivo:  
+# Objetivo:  
 
 Criar uma procedure que possua as instruções de inserção, remoção e atualização de dados no banco de dados. As instruções devem estar dentro de estruturas condicionais (como CASE ou IF).  
 
